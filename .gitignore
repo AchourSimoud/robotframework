@@ -65,6 +65,6 @@ ENV/
 env/
 env.bak/
 venv.bak/
-
+myenv/
 # Docker
 *.log
