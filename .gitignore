@@ -68,3 +68,5 @@ venv.bak/
 myenv/
 # Docker
 *.log
+.myenv
+myenv/
